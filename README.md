@@ -8,12 +8,13 @@ Demand Prediction and Location theory depending on the diffusion of Fuel-Cell El
 
 발표자료와 논문이 현재 저장소에 업로드 되어 있습니다.
 
-[Paper_Download](https://github.com/junnei/Paper_Hydro/files/4215330/File_Download.pdf)
+Paper Download here :
+[논문PDF 다운로드](https://github.com/junnei/Paper_Hydro/files/4215330/File_Download.pdf)
 
 # Presentation
 
 Presentation here :
-[발표자료 보러가기]https://github.com/junnei/Paper_Hydro/blob/master/presentation.md
+[발표자료 보러가기](https://github.com/junnei/Paper_Hydro/blob/master/presentation.md)
 
 # Paper
 
