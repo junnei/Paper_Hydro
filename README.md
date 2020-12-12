@@ -1,10 +1,79 @@
-# Paper_Hydro
-Paper for
-Demand Prediction and Location theory depending on the diffusion  of Fuel-Cell Electric Vehicle and Hydrogen Station.
+# Demand Prediction and Location theory depending on FCEV and Station.
 
-[File_Download.pdf](https://github.com/junnei/Paper_Hydro/files/4215330/File_Download.pdf)
+Paper for
+Demand Prediction and Location theory depending on the diffusion of Fuel-Cell Electric Vehicle and Hydrogen Station.
+
+
+수소연료전지자동차 및 수소충전소 확산에 따른 수요예측 및 입지선정
+
+발표자료와 논문이 현재 페이지 하단에 업로드 되어 있습니다.
+
+[Paper_File_Download.pdf](https://github.com/junnei/Paper_Hydro/files/4215330/File_Download.pdf)
+
+
+
+# Presentation
+
+<b>경희대학교 산업경영공학과 졸업논문 발표자료</b>
+
+Presentation of Graduation thesis from Industrial & Management Systems Engineering, Kyung Hee University
+
+![학사논문_국내 수소연료전지 자동차의 확산 분석 및 최적의 충전소 입지선정-01](https://user-images.githubusercontent.com/41983244/101986295-97a57800-3cd0-11eb-946f-0dadfda1114f.png)
+![학사논문_국내 수소연료전지 자동차의 확산 분석 및 최적의 충전소 입지선정-02](https://user-images.githubusercontent.com/41983244/101986299-9b38ff00-3cd0-11eb-8a59-7d650643dbf8.png)
+![학사논문_국내 수소연료전지 자동차의 확산 분석 및 최적의 충전소 입지선정-03](https://user-images.githubusercontent.com/41983244/101986300-9bd19580-3cd0-11eb-8067-d663ab35dfe1.png)
+![학사논문_국내 수소연료전지 자동차의 확산 분석 및 최적의 충전소 입지선정-04](https://user-images.githubusercontent.com/41983244/101986301-9c6a2c00-3cd0-11eb-9837-4fa69e6e58d8.png)
+![학사논문_국내 수소연료전지 자동차의 확산 분석 및 최적의 충전소 입지선정-05](https://user-images.githubusercontent.com/41983244/101986302-9d9b5900-3cd0-11eb-811f-c5f25bed399e.png)
+![학사논문_국내 수소연료전지 자동차의 확산 분석 및 최적의 충전소 입지선정-06](https://user-images.githubusercontent.com/41983244/101986303-9e33ef80-3cd0-11eb-8c88-c569ebd87908.png)
+![학사논문_국내 수소연료전지 자동차의 확산 분석 및 최적의 충전소 입지선정-07](https://user-images.githubusercontent.com/41983244/101986305-9ecc8600-3cd0-11eb-9433-d718561f856c.png)
+![학사논문_국내 수소연료전지 자동차의 확산 분석 및 최적의 충전소 입지선정-08](https://user-images.githubusercontent.com/41983244/101986306-9ecc8600-3cd0-11eb-8d79-c63e27a7e5cf.png)
+![학사논문_국내 수소연료전지 자동차의 확산 분석 및 최적의 충전소 입지선정-09](https://user-images.githubusercontent.com/41983244/101986307-9f651c80-3cd0-11eb-9d02-1ebdefcea36f.png)
+![학사논문_국내 수소연료전지 자동차의 확산 분석 및 최적의 충전소 입지선정-10](https://user-images.githubusercontent.com/41983244/101986309-9ffdb300-3cd0-11eb-9d16-3c2f19841126.png)
+![학사논문_국내 수소연료전지 자동차의 확산 분석 및 최적의 충전소 입지선정-11](https://user-images.githubusercontent.com/41983244/101986311-9ffdb300-3cd0-11eb-91be-1001acd9349f.png)
+![학사논문_국내 수소연료전지 자동차의 확산 분석 및 최적의 충전소 입지선정-12](https://user-images.githubusercontent.com/41983244/101986312-a0964980-3cd0-11eb-9cca-2bd633a32b45.png)
+![학사논문_국내 수소연료전지 자동차의 확산 분석 및 최적의 충전소 입지선정-13](https://user-images.githubusercontent.com/41983244/101986313-a12ee000-3cd0-11eb-965c-352923b7d5e8.png)
+![학사논문_국내 수소연료전지 자동차의 확산 분석 및 최적의 충전소 입지선정-14](https://user-images.githubusercontent.com/41983244/101986314-a12ee000-3cd0-11eb-81d0-c271c76a8526.png)
+![학사논문_국내 수소연료전지 자동차의 확산 분석 및 최적의 충전소 입지선정-15](https://user-images.githubusercontent.com/41983244/101986315-a1c77680-3cd0-11eb-87d9-5e12553007c7.png)
+![학사논문_국내 수소연료전지 자동차의 확산 분석 및 최적의 충전소 입지선정-16](https://user-images.githubusercontent.com/41983244/101986316-a2600d00-3cd0-11eb-8f1b-765d1c126d69.png)
+![학사논문_국내 수소연료전지 자동차의 확산 분석 및 최적의 충전소 입지선정-17](https://user-images.githubusercontent.com/41983244/101986318-a2f8a380-3cd0-11eb-80df-d305c106393a.png)
+![학사논문_국내 수소연료전지 자동차의 확산 분석 및 최적의 충전소 입지선정-18](https://user-images.githubusercontent.com/41983244/101986320-a55afd80-3cd0-11eb-86eb-8dc67fbf0f47.png)
+![학사논문_국내 수소연료전지 자동차의 확산 분석 및 최적의 충전소 입지선정-19](https://user-images.githubusercontent.com/41983244/101986321-a5f39400-3cd0-11eb-89fb-5cf9f422f441.png)
+![학사논문_국내 수소연료전지 자동차의 확산 분석 및 최적의 충전소 입지선정-20](https://user-images.githubusercontent.com/41983244/101986322-a68c2a80-3cd0-11eb-8847-f4862edea870.png)
+![학사논문_국내 수소연료전지 자동차의 확산 분석 및 최적의 충전소 입지선정-21](https://user-images.githubusercontent.com/41983244/101986324-a724c100-3cd0-11eb-89cf-904e23490e3f.png)
+![학사논문_국내 수소연료전지 자동차의 확산 분석 및 최적의 충전소 입지선정-22](https://user-images.githubusercontent.com/41983244/101986326-a7bd5780-3cd0-11eb-89c0-6d26a481cec4.png)
+![학사논문_국내 수소연료전지 자동차의 확산 분석 및 최적의 충전소 입지선정-23](https://user-images.githubusercontent.com/41983244/101986327-a855ee00-3cd0-11eb-928a-f972e742ff4d.png)
+![학사논문_국내 수소연료전지 자동차의 확산 분석 및 최적의 충전소 입지선정-24](https://user-images.githubusercontent.com/41983244/101986328-a855ee00-3cd0-11eb-88fb-3dfa7686e3dc.png)
+![학사논문_국내 수소연료전지 자동차의 확산 분석 및 최적의 충전소 입지선정-25](https://user-images.githubusercontent.com/41983244/101986330-a8ee8480-3cd0-11eb-8f16-257ab444f5d5.png)
+![학사논문_국내 수소연료전지 자동차의 확산 분석 및 최적의 충전소 입지선정-26](https://user-images.githubusercontent.com/41983244/101986331-a9871b00-3cd0-11eb-80b7-9ec325e6fcac.png)
+![학사논문_국내 수소연료전지 자동차의 확산 분석 및 최적의 충전소 입지선정-27](https://user-images.githubusercontent.com/41983244/101986332-aa1fb180-3cd0-11eb-8942-9911dace9d24.png)
+![학사논문_국내 수소연료전지 자동차의 확산 분석 및 최적의 충전소 입지선정-28](https://user-images.githubusercontent.com/41983244/101986333-aab84800-3cd0-11eb-8d6a-826bfafd0e66.png)
+![학사논문_국내 수소연료전지 자동차의 확산 분석 및 최적의 충전소 입지선정-29](https://user-images.githubusercontent.com/41983244/101986334-aab84800-3cd0-11eb-9902-a1a09388956b.png)
+![학사논문_국내 수소연료전지 자동차의 확산 분석 및 최적의 충전소 입지선정-30](https://user-images.githubusercontent.com/41983244/101986335-ab50de80-3cd0-11eb-8e60-bd426b0f6bf3.png)
+![학사논문_국내 수소연료전지 자동차의 확산 분석 및 최적의 충전소 입지선정-31](https://user-images.githubusercontent.com/41983244/101986336-abe97500-3cd0-11eb-96ac-4c1a41c2c4ac.png)
+![학사논문_국내 수소연료전지 자동차의 확산 분석 및 최적의 충전소 입지선정-32](https://user-images.githubusercontent.com/41983244/101986337-abe97500-3cd0-11eb-9bf4-02d3d91ceb2c.png)
+![학사논문_국내 수소연료전지 자동차의 확산 분석 및 최적의 충전소 입지선정-33](https://user-images.githubusercontent.com/41983244/101986339-ac820b80-3cd0-11eb-9b8a-262bb28145a0.png)
+![학사논문_국내 수소연료전지 자동차의 확산 분석 및 최적의 충전소 입지선정-34](https://user-images.githubusercontent.com/41983244/101986340-ad1aa200-3cd0-11eb-9c5f-b5ce04bb941d.png)
+![학사논문_국내 수소연료전지 자동차의 확산 분석 및 최적의 충전소 입지선정-35](https://user-images.githubusercontent.com/41983244/101986341-adb33880-3cd0-11eb-8db5-fac851888f67.png)
+![학사논문_국내 수소연료전지 자동차의 확산 분석 및 최적의 충전소 입지선정-36](https://user-images.githubusercontent.com/41983244/101986342-ae4bcf00-3cd0-11eb-974e-1432817d038f.png)
+![학사논문_국내 수소연료전지 자동차의 확산 분석 및 최적의 충전소 입지선정-37](https://user-images.githubusercontent.com/41983244/101986343-ae4bcf00-3cd0-11eb-9c15-6a88cca3b35a.png)
+![학사논문_국내 수소연료전지 자동차의 확산 분석 및 최적의 충전소 입지선정-38](https://user-images.githubusercontent.com/41983244/101986344-aee46580-3cd0-11eb-8524-9e329c795482.png)
+![학사논문_국내 수소연료전지 자동차의 확산 분석 및 최적의 충전소 입지선정-39](https://user-images.githubusercontent.com/41983244/101986345-af7cfc00-3cd0-11eb-95f7-ebc7808f954c.png)
+![학사논문_국내 수소연료전지 자동차의 확산 분석 및 최적의 충전소 입지선정-40](https://user-images.githubusercontent.com/41983244/101986346-af7cfc00-3cd0-11eb-9ec4-3411f5a2ebd5.png)
+![학사논문_국내 수소연료전지 자동차의 확산 분석 및 최적의 충전소 입지선정-41](https://user-images.githubusercontent.com/41983244/101986347-b0159280-3cd0-11eb-8e39-be66f04b506b.png)
+![학사논문_국내 수소연료전지 자동차의 확산 분석 및 최적의 충전소 입지선정-42](https://user-images.githubusercontent.com/41983244/101986348-b0ae2900-3cd0-11eb-82eb-1725f1012873.png)
+![학사논문_국내 수소연료전지 자동차의 확산 분석 및 최적의 충전소 입지선정-43](https://user-images.githubusercontent.com/41983244/101986349-b0ae2900-3cd0-11eb-98ff-21d23b363627.png)
+![학사논문_국내 수소연료전지 자동차의 확산 분석 및 최적의 충전소 입지선정-44](https://user-images.githubusercontent.com/41983244/101986351-b146bf80-3cd0-11eb-98f4-72639766e8eb.png)
+![학사논문_국내 수소연료전지 자동차의 확산 분석 및 최적의 충전소 입지선정-45](https://user-images.githubusercontent.com/41983244/101986352-b146bf80-3cd0-11eb-92b9-c606f6a953c4.png)
+![학사논문_국내 수소연료전지 자동차의 확산 분석 및 최적의 충전소 입지선정-46](https://user-images.githubusercontent.com/41983244/101986354-b1df5600-3cd0-11eb-828e-cb390bf76735.png)
+![학사논문_국내 수소연료전지 자동차의 확산 분석 및 최적의 충전소 입지선정-47](https://user-images.githubusercontent.com/41983244/101986355-b277ec80-3cd0-11eb-9a8f-7fc9a3a383fc.png)
+![학사논문_국내 수소연료전지 자동차의 확산 분석 및 최적의 충전소 입지선정-48](https://user-images.githubusercontent.com/41983244/101986356-b3108300-3cd0-11eb-8006-0a7bb9ea04db.png)
+![학사논문_국내 수소연료전지 자동차의 확산 분석 및 최적의 충전소 입지선정-49](https://user-images.githubusercontent.com/41983244/101986357-b3a91980-3cd0-11eb-8804-167a718f0efc.png)
+
+
 
 # Paper
+
+<b>경희대학교 산업경영공학과 졸업논문</b>
+
 ![8c9e31c0-bcea-4138-8dba-5dc58610410e hwp-0001](https://user-images.githubusercontent.com/41983244/74676458-73385680-51f9-11ea-9aef-48b396b97968.png)
 ![8c9e31c0-bcea-4138-8dba-5dc58610410e hwp-0002](https://user-images.githubusercontent.com/41983244/74676461-75021a00-51f9-11ea-927f-7760fa1082c1.png)
 ![8c9e31c0-bcea-4138-8dba-5dc58610410e hwp-0003](https://user-images.githubusercontent.com/41983244/74676463-76334700-51f9-11ea-8aa4-c02379d3ab9a.png)
